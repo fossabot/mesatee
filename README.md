@@ -6,6 +6,7 @@
 [![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://mesatee.org/doc/mesatee_sdk/)
 [![Codecov Status](https://codecov.io/gh/mesalock-linux/mesatee/branch/master/graph/badge.svg?token=Cwv13guOBi)](https://codecov.io/gh/mesalock-linux/mesatee)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkevinis%2Fmesatee.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkevinis%2Fmesatee?ref=badge_shield)
 
 ## Highlights
 
@@ -95,3 +96,7 @@ Please adhere to the [Rust Development Guideline](docs/rust_guideline.md) and re
 ## Contact
 
 We encourage you to discuss open source related matters in [Issues](https://github.com/mesalock-linux/mesatee/issues). For other questions, you may reach out to MesaTEE mailing list: [developers@mesatee.org](mailto:developers@mesatee.org) or each [maintainer](MAINTAINERS.md) individually.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkevinis%2Fmesatee.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkevinis%2Fmesatee?ref=badge_large)
